@@ -11,6 +11,8 @@
          My specialties at the moment are:<br>
          .HTML and CSS <br>
          .Modeling with the FIGMA application
+         .PHP, JAVASCRIPT, LARAVEL
+         .WORDPRESS
         </div>
        <div align="center">
          <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width="300" height="200"/>
